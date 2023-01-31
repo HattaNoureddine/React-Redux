@@ -1,0 +1,25 @@
+*{
+  background-color: #b7e4c7;
+}
+.cntr{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+#num{
+  color: black;
+  font-size: 90px;
+}
+button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+#button1 {background-color: #4CAF50;} /* Green */
+#button2 {background-color: #008CBA;} /* Blue */
+#button3 {background-color: #f44336;} /* Red */
